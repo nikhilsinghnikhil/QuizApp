@@ -8,3 +8,8 @@ Score tracking
 "Next" button navigation
 Option to restart the quiz
 Clean and beginner-friendly JavaScript logic
+
+Tech Stack
+HTML5
+CSS3
+JavaScript (Vanilla)
